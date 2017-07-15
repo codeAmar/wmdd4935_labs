@@ -1,0 +1,32 @@
+{
+  "name": "hapi2learn",
+  "version": "1.0.0",
+  "description": "this folder consist of the makemehapi exercises",
+  "main": "exercise1.js",
+  "dependencies": {
+    "boom": "^5.1.0",
+    "h2o2": "^5.4.0",
+    "handlebars": "^4.0.10",
+    "hapi": "^16.3.0",
+    "hapi-auth-basic": "^4.2.0",
+    "inert": "^4.2.0",
+    "joi": "^10.6.0",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/codeamar"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "amarjot",
+  "license": "ISC"
+}
